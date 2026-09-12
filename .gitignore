@@ -1,6 +1,2 @@
 checkpoints/
-*.pth
-*.tsv
-*.model
-*.vocab
-sp_corpus.txt
+model/
